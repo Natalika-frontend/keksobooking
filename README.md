@@ -1,1 +1,1 @@
-# https://natalika-frontend.github.io/keksobooking.github.io/
+# https://natalika-frontend/keksobooking.github.io/
